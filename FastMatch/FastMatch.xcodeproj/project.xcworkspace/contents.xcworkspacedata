@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:fastmatch.xcodeproj">
+      location = "self:FastMatch.xcodeproj">
    </FileRef>
 </Workspace>

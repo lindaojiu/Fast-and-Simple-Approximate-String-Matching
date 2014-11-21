@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "37F97F7619FAD43100AE54F1"
-               BuildableName = "fastmatch"
-               BlueprintName = "fastmatch"
-               ReferencedContainer = "container:fastmatch.xcodeproj">
+               BlueprintIdentifier = "37BA33DC1A1FBB3800ED4541"
+               BuildableName = "FastMatch"
+               BlueprintName = "FastMatch"
+               ReferencedContainer = "container:FastMatch.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "37F97F7619FAD43100AE54F1"
-            BuildableName = "fastmatch"
-            BlueprintName = "fastmatch"
-            ReferencedContainer = "container:fastmatch.xcodeproj">
+            BlueprintIdentifier = "37BA33DC1A1FBB3800ED4541"
+            BuildableName = "FastMatch"
+            BlueprintName = "FastMatch"
+            ReferencedContainer = "container:FastMatch.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -51,10 +51,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "37F97F7619FAD43100AE54F1"
-            BuildableName = "fastmatch"
-            BlueprintName = "fastmatch"
-            ReferencedContainer = "container:fastmatch.xcodeproj">
+            BlueprintIdentifier = "37BA33DC1A1FBB3800ED4541"
+            BuildableName = "FastMatch"
+            BlueprintName = "FastMatch"
+            ReferencedContainer = "container:FastMatch.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -69,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "37F97F7619FAD43100AE54F1"
-            BuildableName = "fastmatch"
-            BlueprintName = "fastmatch"
-            ReferencedContainer = "container:fastmatch.xcodeproj">
+            BlueprintIdentifier = "37BA33DC1A1FBB3800ED4541"
+            BuildableName = "FastMatch"
+            BlueprintName = "FastMatch"
+            ReferencedContainer = "container:FastMatch.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
