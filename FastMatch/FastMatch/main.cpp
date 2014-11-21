@@ -56,8 +56,6 @@ int edit_window(string textWindow,string pattern,int k)
 void bcTable(string p, unsigned int* bc, int seg_length)
 {
     int i;
-    unsigned int temp[26];
-    
     for (i = 0; i < p.length(); i++)
         bc[INDEX(p[i])] = bc[INDEX(p[i])] | (1 << (p.length()-i-1));
     for(i = 0;i<26;i++)
@@ -65,12 +63,10 @@ void bcTable(string p, unsigned int* bc, int seg_length)
         int j;
         int k;
         int value=seg_length+1;
-        temp[i]=bc[i];
-        for(j=0;j<p.length();j=j+seg_length)
+       for(j=0;j<p.length();j=j+seg_length)
         {
-            bc[i]=temp[i]>>j;
             for(k=1;k<=seg_length+1;k++)
-                if ((bc[i]&(1<<(k-1))) != 0) break;
+                if (((bc[i]>>j)&(1<<(k-1))) != 0) break;
             if(k<value) value=k;
         }
         
