@@ -17,4 +17,6 @@ Team Member :
 
 Computer, Electrical and Mathematical Sciences and Engineering (CEMSE) Division
 
-You can find the first algorithm at https://github.com/GangLiao/Approximate-String-Matching 
+You can find the first algorithm at https://github.com/GangLiao/Approximate-String-Matching
+- [x] This is a complete item
+- [ ] This is an incomplete item
