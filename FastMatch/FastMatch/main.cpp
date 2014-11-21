@@ -130,7 +130,9 @@ int main(int argc, const char * argv[]) {
     string pattern = "gttggcagcagtcgatcaaattgccgatccga";
     
     //text length = 256
-    string text =   "gttggcagcagtcgatcaaattgccgatccgawwgttggcagcagtcgatcaaattgccgatccgagttggcagcagtcgatcaaattgccgatccgagttggcgtcgatcaaaatgcccatjjjjjcccacggttggcagcagtcgatcaaatcgaccaccgggcagcagtcgattgagtgcagtcgatcaaattgccgatccgagttggcagcagtcgatcaaattgccgatccgaagtctcaaattgccgatc";
+    string text =   "gttggcagcagtcgatcaaattgccgatccgawwgttggcagcagtcgatcaaattgccgatccgagttggcagcagtcgatcaaattgccgatccgagtt"\
+"ggcgtcgatcaaaatgcccatjjjjjcccacggttggcagcagtcgatcaaatcgaccaccgggcagcagtcgattgagtgcagtcgatcaaattgccgatccgagttgg"\
+    "cagcagtcgatcaaattgccgatccgaagtctcaaattgccgatc";
     
     int k=3;   // the error limit: k
     
