@@ -3,7 +3,7 @@ Fast-and-Simple-Approximate-String-Matching
 
 Project of KAUST AMCS 240 Algorithms
 
-this is the second algorithm of our team project. 
+This is the second algorithm of our team project. 
 
 Team Member :
 
