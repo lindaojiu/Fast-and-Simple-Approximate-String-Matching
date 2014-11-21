@@ -1,4 +1,4 @@
-#Fast and Simple Approximate String Matching
+##Fast and Simple Approximate String Matching
 ###Project of KAUST AMCS 240 Algorithms
 
 This is the second algorithm of our team project. 
