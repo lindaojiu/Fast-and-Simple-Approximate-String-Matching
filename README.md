@@ -1,7 +1,7 @@
 ##Fast and Simple Approximate String Matching
 ###Project of KAUST AMCS 240 Algorithms
 
-This is the second algorithm of our team project. 
+This is the second algorithm of our team project.
 
 Team Member :
 
@@ -18,3 +18,7 @@ Team Member :
 Computer, Electrical and Mathematical Sciences and Engineering (CEMSE) Division
 
 You can find the first algorithm [here](https://github.com/GangLiao/Approximate-String-Matching) .
+
+#pic try
+
+![Windows Icons - Download 288 Free Windows icons here](http://www.iconarchive.com/download/i45768/tatice/operating-systems/Windows.ico)
